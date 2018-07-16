@@ -1,7 +1,7 @@
 # Site
 title:          YWinharjono Personal Blog
 bio:            'Just an ordinary man'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    "I am freelance web & mobile developer, read my story and my achievement on Blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://ywinharjono.github.io
@@ -23,10 +23,10 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
+email: ywinharjono@archietechs.com
 #twitter: username
 #facebook: username
-#google:
+google:
   plus: ywinharjono
   #analytics:
   #verify:
