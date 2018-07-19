@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
+title:  "Luks Yang Tak Berdarah"
+date:   2017-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
 - markdown
@@ -11,21 +11,21 @@ tag:
 - jekyll
 ---
 
-## HTML Elements
+## Sebuah rasa sakit dari seonggok keteledoran
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Tidak susah untuk memulai clean coding dalam mengerjakan sebuah project, tetapi pada dasarnya otak manusia itu rata-rata lebih mengedepankan sesuatu yang gampang dan cepat dibandingkan dengan sesuatu yang agak ribet dan cenderung menyita waktu. Well.. setiap keputusan pasti ada konsekwensinya, dan sekali lagi otak manusia didesain untuk mendapatkan resiko yang kecil dari sebuah konsekwensi.
 
-# Heading 1
+###### Belajar
 
-## Heading 2
+##### Menerima
 
-### Heading 3
+#### Kesalahan
 
-#### Heading 4
+### Untuk diperbaiki
 
-##### Heading 5
+## Dan dijadikan pengalaman
 
-###### Heading 6
+# Agar tidak terulang kembali
 
 ### Body text
 
