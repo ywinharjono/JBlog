@@ -5,18 +5,17 @@ tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image](https://ywinharjono.archietechs.com/assets/img/profile.png)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>YWinharjono</b> just an ordinary man.</center>
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+Hi.. nama saya Yohanes Maria Vianney Winharjono, ini merupakan personal blog saya dan juga sedikit notes tentang keseharian saya yang random, baik itu kehidupan pribadi saya dan juga pengalaman-pengalaman saya dibidang IT.
+
+Semoga kalian menyukai, atau bahkan bisa mengambil pelajaran dari beberapa pengalaman-pengalaman bodoh saya.
+
+Salam kenal dari saya ;)
 
 
-If you like this theme or using it, please give a **star** for motivation.
-
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
