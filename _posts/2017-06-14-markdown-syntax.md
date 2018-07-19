@@ -27,9 +27,13 @@ Tidak susah untuk memulai clean coding dalam mengerjakan sebuah project, tetapi 
 
 # Agar tidak terulang kembali
 
-### Body text
+## Notices
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+**Warning!!** Segala tindakan yang saya lakukan di kisah ini jangan ditiru, tetapi jadikanlah sebuah pelajaran.
+{: .notice}
+
+
+seorang junior programmer yang boleh dikatakan minim pengalaman dalam menghandle sebuah project seorang diri, entah kenapa dihari yang cerah itu seperti mendapatkan durian runtuh karena ada seseorang dari antah berantah yang datang dengan sebuah project developing sistem informasi disebuah kantor swasta. long story short, dia tidak berpikir panjang dalam mengambil project itu untuk dikerjakan seorang diri. mengingat nilai project itu sendiri dikisaran 10 juta rupiah, tidak terlalu besar memang jika dikerjakan secara team.
 
 ![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
 {: .image-pull-right}
@@ -95,7 +99,3 @@ Make any link standout more when applying the `.btn` class.
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
 
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
