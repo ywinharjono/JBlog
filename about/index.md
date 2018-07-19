@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About
 tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
@@ -10,7 +10,7 @@ date: 2016-03-21
 
 <center><b>YWinharjono</b> just an ordinary man.</center>
 
-## About
+## Welcome
 
 Hi.. nama saya Yohanes Maria Vianney Winharjono, ini merupakan personal blog saya dan juga sedikit notes tentang keseharian saya yang random, baik itu kehidupan pribadi saya dan juga pengalaman-pengalaman saya dibidang IT.
 
