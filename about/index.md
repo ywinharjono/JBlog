@@ -18,7 +18,7 @@ Semoga kalian menyukai, atau bahkan bisa mengambil pelajaran dari beberapa penga
 
 Salam kenal dari saya ;)
 
-![jekyll Image](https://github.com/ywinharjono/ywinharjono.github.io/blob/master/assets/img/profile.png)
+![Archietechs Image](https://github.com/ywinharjono/ywinharjono.github.io/blob/master/assets/img/logo_main_archietechs.png)
 {: .image-pull-right}
 
 
