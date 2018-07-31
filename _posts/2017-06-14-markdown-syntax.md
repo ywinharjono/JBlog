@@ -4,11 +4,11 @@ title:  "Luka Yang Tak Berdarah"
 date:   2017-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
-- markdown
-- syntax
-- sample
-- test
-- jekyll
+- pengalaman
+- coding
+- project
+- developing
+- PHP
 ---
 
 ## Sebuah rasa sakit dari seonggok keteledoran
@@ -41,13 +41,12 @@ akhirnya keputusannya membangun semua dari nol membuatnya membayar mahal.. sanga
 ![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
 {: .image-pull-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
+Well, mungkin semua itu ada hikmahnya.. tentunya Tuhan memberikan kita sebuah cobaan dengan tujuan agar kita dapat belajar dari kesalahan itu dan bangkit kembali agar tetap berani mencoba.
 ### Blockquotes
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+> Developing sistem itu kalau sistematis dan terstruktur, harusnya memberikan kita kemudahan dalam hal maintenance dan juga efisiensi waktu
+
+Ya.. oleh karena pelajaran itu tadi saya mencoba bangkit berdiri lagi dan membuat semuanya menjadi lebih mudah dipertanggug jawabkan dan juga lebih termaintenance
 
 ## List Types
 
