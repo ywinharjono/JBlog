@@ -8,9 +8,9 @@ date: 2016-03-21
 ![jekyll Image](https://ywinharjono.archietechs.com/assets/img/profile.png)
 {: .image-pull-right}
 
-<center><b>YWinharjono</b> just an ordinary man.</center>
+<center><b>just an ordinary man.</b></center>
 
-## Welcome
+## Hello World
 
 Hi.. nama saya Yohanes Maria Vianney Winharjono, ini merupakan personal blog saya dan juga sedikit notes tentang keseharian saya yang random, baik itu kehidupan pribadi saya dan juga pengalaman-pengalaman saya dibidang IT.
 

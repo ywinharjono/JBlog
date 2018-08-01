@@ -42,40 +42,10 @@ akhirnya keputusannya membangun semua dari nol membuatnya membayar mahal.. sanga
 {: .image-pull-right}
 
 Well, mungkin semua itu ada hikmahnya.. tentunya Tuhan memberikan kita sebuah cobaan dengan tujuan agar kita dapat belajar dari kesalahan itu dan bangkit kembali agar tetap berani mencoba.
-### Blockquotes
 
-> Developing sistem itu kalau sistematis dan terstruktur, harusnya memberikan kita kemudahan dalam hal maintenance dan juga efisiensi waktu
+> "Developing sistem itu kalau sistematis dan terstruktur, harusnya memberikan kita kemudahan dalam hal maintenance dan juga efisiensi waktu"
 
 Ya.. oleh karena pelajaran itu tadi saya mencoba bangkit berdiri lagi dan membuat semuanya menjadi lebih mudah dipertanggug jawabkan dan juga lebih termaintenance
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
 
 ## Code Snippets
 
